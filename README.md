@@ -145,15 +145,5 @@ Total Skor:        41.89 (Prioritas 1)
 
 ## 👨‍💻 Pengembang
 
-Sistem ini dikembangkan untuk:
-- **Kecamatan**: Pondokgede
-- **Metode**: AHP (Analytic Hierarchy Process)
-- **Tahun**: 2026
-
-## 📄 Lisensi
-
-Free for educational and research purposes.
-
----
 
 **Catatan**: Data 100 warga yang disertakan merupakan data sampel dari penelitian. Untuk penggunaan nyata, sesuaikan dengan data sebenarnya."# ahp_metode" 
