@@ -31,11 +31,24 @@ if (isset($_POST['login'])) {
 <head>
     <title>Login | BPJS PBI</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .logo-container {
+            max-width: 120px;
+            margin: 0 auto 15px;
+        }
+        .logo-container img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
 </head>
 <body class="bg-light d-flex align-items-center" style="height: 100vh;">
     <div class="card shadow-sm mx-auto" style="width: 350px; border-radius: 10px;">
         <div class="card-body p-4">
             <div class="text-center mb-4">
+                <div class="logo-container">
+                    <img src="assets/images/logo.png" alt="Logo Kecamatan Pondok Gede">
+                </div>
                 <h5 class="fw-bold">BPJS PBI AHP</h5>
                 <small class="text-muted">Kecamatan Pondokgede</small>
             </div>

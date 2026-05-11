@@ -3,8 +3,8 @@
     <div class="sidebar-brand">
         <!-- Poin 6: Branding Kecamatan Pondokgede[cite: 4] -->
         <a href="index.php" style="text-decoration: none; color: white;">
-            <div class="mb-2">
-                <i class="fas fa-hospital-user fa-2x"></i>
+            <div class="mb-2 text-center">
+                <img src="assets/images/logo.png" alt="Logo Kecamatan Pondok Gede" style="width: 60px; height: auto;">
             </div>
             <h4><?= APP_NAME ?></h4>
             <small>Metode AHP</small><br>
